@@ -14,7 +14,7 @@ $ rosrun rviz rviz -d `rospack find rbx2_description`/urdf.rviz
 
 Вид в RViz должен выглядеть примерно так, как на картинке ниже:
 
-![page131image53463696](blob:https://app.gitbook.com/be3f815e-5651-4f6d-944a-85729233f49c)
+![](../.gitbook/assets/bez-zagolovka8.png)
 
 \(Не забудьте установить флажок рядом с дисплеем **RobotModel**, если вы все еще видите ранее загруженную модель.\)
 

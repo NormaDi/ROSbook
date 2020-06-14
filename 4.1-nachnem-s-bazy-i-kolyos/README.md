@@ -14,7 +14,7 @@ $ roslaunch rbx2_description box_robot_base_only.launch
 
 Вы должны увидеть небольшое окно с именем «Joint State Publisher» с двумя ползунковыми регуляторами, по одному на каждое колесо привода:
 
-![page115image53060752](blob:https://app.gitbook.com/539d6792-c76d-46c9-a271-a718992fa3c4)
+![](../.gitbook/assets/bez-zagolovka.png)
 
 Далее, запустите RViz с помощью включенного файла конфигурации urdf.rviz:
 
@@ -24,7 +24,7 @@ $ rosrun rviz rviz -d `rospack find rbx2_description`/urdf.rviz
 
 Представление в RViz должно выглядеть примерно так:
 
-![page116image53100960](blob:https://app.gitbook.com/0ed6c21a-361c-48b2-8689-1990a2213240)
+![](../.gitbook/assets/bez-zagolovka1.png)
 
 Обратите внимание, как для **Fixed Frame** установлено значение _/ base\_footprint_. Имейте это в виду, когда мы посмотрим на определение базы URDF позже.
 
